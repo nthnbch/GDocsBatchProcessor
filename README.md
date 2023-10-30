@@ -1,4 +1,4 @@
-# DocsBatchProcessor
+# GDocsBatchProcessor
 
 **Description**: A Google Apps Script utility that processes Google Docs within a specified Google Drive folder (and its subfolders). The script alters document formatting, removes the first line, and inserts an image at the beginning of eligible files.
 
