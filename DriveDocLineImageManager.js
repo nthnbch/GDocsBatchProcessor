@@ -56,7 +56,8 @@ function processFilesInFolder(folder, imageBlob) {
 }
 
 function isValidFileName(fileName) {
-  return fileName.startsWith("Doc - ") || fileName.startsWith("NR - ");
+// Replace "Example of name starting with - " and "Example of anothername starting with -  "with the names you want to search.
+  return fileName.startsWith("Example of name starting with - ") || fileName.startsWith("Example of anothername starting with - ");
 }
 
 function updateDocument(doc, body, imageBlob) {
