@@ -16,3 +16,17 @@ For the script to successfully insert an image at the start of each Google Doc:
 
 ## Usage:
 Refer to `INSTALL.md` for setup and execution details.
+
+## Participation and Contribution:
+Thank you for your interest in GDocsBatchProcessor! We welcome and encourage collaboration.
+
+### How to Participate:
+1. **Fork the Repository**: Click on the 'Fork' button at the top right of this page. This creates your own copy of the repository.
+2. **Clone Your Fork**: Clone your fork to your local machine and make your changes.
+3. **Submit a Pull Request**: After pushing your changes to your forked repository, create a pull request to my **dev** repository. I'll review and merge your contributions.
+
+### Issues and Feedback:
+For any issues, bugs, or feedback, please open an issue in the repository.
+
+## Disclaimer:
+Please be cautious when using this script, especially with important documents. While every effort has been made to ensure the script works as intended, the authors and maintainers are not responsible for any unintended consequences or damages arising from the use of this tool.
